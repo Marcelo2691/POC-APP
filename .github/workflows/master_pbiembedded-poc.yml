@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'pbiembedded-poc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCBDDF6A004D4D2AA66250F05495FA81 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A7C87C8245D46C3B88091C0D9C4C34A }}
           package: .
