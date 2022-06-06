@@ -1,4 +1,3 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/d238653b-fcd2-437a-8e8b-88f8388a24d0/microsoft.web/sites/subscriptions/d238653b-fcd2-437a-8e8b-88f8388a24d0/resourceGroups/rg-pbiembedded-poc/providers/Microsoft.Web/sites/pbiembedded-poc",
-    "appService.deploySubpath": "."
+    "appService.defaultWebAppToDeploy": "None"
 }
